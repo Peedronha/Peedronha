@@ -13,7 +13,7 @@
 ---
 
 ### 🧠 About Me
-I engineer backend solutions focused on distributed environments and microservices architectures. I am deeply interested in high-concurrency performance tracking, streaming telemetry data, and optimizing non-blocking I/O operations.
+I'm a backend enginner solutions focused on distributed environments and microservices architectures. I am deeply interested in high-concurrency performance tracking, streaming telemetry data, and optimizing non-blocking I/O operations.
 
 * ⚙️ Currently expanding my depth in event-driven ecosystems with **Apache Kafka** and query performance optimization.
 * 🛠️ Strong advocate for automated testing, **Domain-Driven Design (DDD)**, and reactive streams (`Mono`/`Flux`).
